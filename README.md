@@ -54,9 +54,9 @@ Then on Launcher, select "Lawnchair"
 <img src="https://github.com/user-attachments/assets/90c90870-2d06-49e8-81ec-cab57d2b6409" alt="screenshot" width="400"/>
 
 And now you will have a brand new homescreen, but it still needs some settings.
-Now, in lawnchair...
-Long-press homescreen and select "Settings"
-Now, navigate to "Theme"
+Now, in lawnchair
+long-press homescreen and select "Settings"
+Now, navigate to "Theme".
 If you didn't, download these icons:
 https://play.google.com/store/apps/details?id=ru.pt.iconpack.pixel_q&hl=es_419
 After that, go again to Themes and you will see "Icon Pack"
