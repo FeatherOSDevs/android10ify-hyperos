@@ -18,6 +18,6 @@ Extra resources to make it as close to Android 10 as possible
 
 ⚠️ Note: This guide does not require root, and focuses on safe, reversible modifications. Perfect for customization lovers who miss the classic Android vibe.
 
+<img src="https://github.com/user-attachments/assets/276d87e0-eb15-48cb-b37d-0658325fa644" alt="screenshot" width="400"/>
 
-![Screenshot_2025-05-01-18-12-32-004_ch deletescape lawnchair plah](https://github.com/user-attachments/assets/276d87e0-eb15-48cb-b37d-0658325fa644)
 This is the result of the customization, very close to the original thing. 
