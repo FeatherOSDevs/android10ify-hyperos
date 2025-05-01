@@ -50,7 +50,9 @@ Go to the settings app and search on the top search bar:
 "Default apps"
 Click the "Default apps" option
 Then on Launcher, select "Lawnchair"
+
 <img src="https://github.com/user-attachments/assets/90c90870-2d06-49e8-81ec-cab57d2b6409" alt="screenshot" width="400"/>
+
 And now you will have a brand new homescreen, but it still needs some settings.
 Now, in lawnchair...
 Long-press homescreen and select "Settings"
@@ -59,7 +61,9 @@ If you didn't, download these icons:
 https://play.google.com/store/apps/details?id=ru.pt.iconpack.pixel_q&hl=es_419
 After that, go again to Themes and you will see "Icon Pack"
 Choose "Pixel - Icon Pack"
+
 <img src="https://github.com/user-attachments/assets/9409c0c4-622f-49f9-a9e4-992935014b76" alt="screenshot" width="400"/>
+
 Also change icon shape to "Circle", idk why but by default its in square shape.
 *Note that you can setup the "At a glance" Widget by pressing on it on the homescreen*
 Ok, your setup it's pretty much finished.
